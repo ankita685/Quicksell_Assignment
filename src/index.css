@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Inter', 'Roboto', 'Helvetica', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: bold;
+  font-size: small;
+}
+
+code {
+  font-family: 'Inter', 'Roboto', 'Helvetica', sans-serif
+}
